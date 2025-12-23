@@ -13,3 +13,4 @@
 /Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/refint/BankSystem.Infrastructure.dll
 /Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/BankSystem.Infrastructure.pdb
 /Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/ref/BankSystem.Infrastructure.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/BankSystem.Infrastructure.sourcelink.json

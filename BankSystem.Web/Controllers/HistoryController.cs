@@ -14,7 +14,7 @@ public class HistoryController :  ControllerBase
         _historyService = historyService;
     }
     
-    [HttpGet("{id}")]
+    [HttpGet("id")]
     public async Task<IActionResult> GetById(int customerId, CancellationToken cancellationToken = default)
     {
         var result = await _historyService.GetHistoryByCustomerIdAsync(customerId, cancellationToken);

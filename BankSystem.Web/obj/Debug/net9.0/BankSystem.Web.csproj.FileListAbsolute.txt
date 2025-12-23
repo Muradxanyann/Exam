@@ -50,3 +50,4 @@
 /Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Web/obj/Debug/net9.0/BankSystem.Web.pdb
 /Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Web/obj/Debug/net9.0/BankSystem.Web.genruntimeconfig.cache
 /Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Web/obj/Debug/net9.0/ref/BankSystem.Web.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Web/obj/Debug/net9.0/BankSystem.Web.sourcelink.json
