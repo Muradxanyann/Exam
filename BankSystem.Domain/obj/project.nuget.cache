@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ooQ4+z/8XJs=",
+  "success": true,
+  "projectFilePath": "/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/BankSystem.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/gormuradxanyan/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.1/microsoft.extensions.configuration.abstractions.10.0.1.nupkg.sha512",
+    "/Users/gormuradxanyan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.1/microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512",
+    "/Users/gormuradxanyan/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.1/microsoft.extensions.diagnostics.abstractions.10.0.1.nupkg.sha512",
+    "/Users/gormuradxanyan/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.1/microsoft.extensions.fileproviders.abstractions.10.0.1.nupkg.sha512",
+    "/Users/gormuradxanyan/.nuget/packages/microsoft.extensions.hosting.abstractions/10.0.1/microsoft.extensions.hosting.abstractions.10.0.1.nupkg.sha512",
+    "/Users/gormuradxanyan/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.1/microsoft.extensions.logging.abstractions.10.0.1.nupkg.sha512",
+    "/Users/gormuradxanyan/.nuget/packages/microsoft.extensions.options/10.0.1/microsoft.extensions.options.10.0.1.nupkg.sha512",
+    "/Users/gormuradxanyan/.nuget/packages/microsoft.extensions.primitives/10.0.1/microsoft.extensions.primitives.10.0.1.nupkg.sha512",
+    "/Users/gormuradxanyan/.nuget/packages/system.diagnostics.diagnosticsource/10.0.1/system.diagnostics.diagnosticsource.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

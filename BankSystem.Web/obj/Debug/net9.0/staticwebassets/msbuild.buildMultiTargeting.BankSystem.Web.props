@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/BankSystem.Web.props" />
+</Project>

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oJ4l0OUvROovWogYH5kmouhZB9TxanNNsbbH6OR5zW8=",
+  "Source": "BankSystem.Web",
+  "BasePath": "_content/BankSystem.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,17 @@
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/bin/Debug/net9.0/BankSystem.Application.deps.json
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/bin/Debug/net9.0/BankSystem.Application.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/bin/Debug/net9.0/BankSystem.Application.pdb
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/bin/Debug/net9.0/BankSystem.Domain.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/bin/Debug/net9.0/BankSystem.Infrastructure.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/bin/Debug/net9.0/BankSystem.Domain.pdb
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/bin/Debug/net9.0/BankSystem.Infrastructure.pdb
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/obj/Debug/net9.0/BankSystem.Application.csproj.AssemblyReference.cache
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/obj/Debug/net9.0/BankSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/obj/Debug/net9.0/BankSystem.Application.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/obj/Debug/net9.0/BankSystem.Application.AssemblyInfo.cs
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/obj/Debug/net9.0/BankSystem.Application.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/obj/Debug/net9.0/BankSyst.9DE707B0.Up2Date
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/obj/Debug/net9.0/BankSystem.Application.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/obj/Debug/net9.0/refint/BankSystem.Application.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/obj/Debug/net9.0/BankSystem.Application.pdb
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Application/obj/Debug/net9.0/ref/BankSystem.Application.dll

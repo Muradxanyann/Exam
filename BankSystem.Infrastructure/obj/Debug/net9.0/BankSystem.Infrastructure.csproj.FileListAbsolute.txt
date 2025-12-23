@@ -1,0 +1,15 @@
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/bin/Debug/net9.0/BankSystem.Infrastructure.deps.json
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/bin/Debug/net9.0/BankSystem.Infrastructure.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/bin/Debug/net9.0/BankSystem.Infrastructure.pdb
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/bin/Debug/net9.0/BankSystem.Domain.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/bin/Debug/net9.0/BankSystem.Domain.pdb
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/BankSystem.Infrastructure.csproj.AssemblyReference.cache
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/BankSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/BankSystem.Infrastructure.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/BankSystem.Infrastructure.AssemblyInfo.cs
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/BankSystem.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/BankSyst.461884C1.Up2Date
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/BankSystem.Infrastructure.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/refint/BankSystem.Infrastructure.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/BankSystem.Infrastructure.pdb
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Infrastructure/obj/Debug/net9.0/ref/BankSystem.Infrastructure.dll

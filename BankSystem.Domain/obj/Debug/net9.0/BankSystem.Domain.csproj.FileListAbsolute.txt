@@ -1,0 +1,12 @@
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/bin/Debug/net9.0/BankSystem.Domain.deps.json
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/bin/Debug/net9.0/BankSystem.Domain.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/bin/Debug/net9.0/BankSystem.Domain.pdb
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/obj/Debug/net9.0/BankSystem.Domain.csproj.AssemblyReference.cache
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/obj/Debug/net9.0/BankSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/obj/Debug/net9.0/BankSystem.Domain.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/obj/Debug/net9.0/BankSystem.Domain.AssemblyInfo.cs
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/obj/Debug/net9.0/BankSystem.Domain.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/obj/Debug/net9.0/BankSystem.Domain.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/obj/Debug/net9.0/refint/BankSystem.Domain.dll
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/obj/Debug/net9.0/BankSystem.Domain.pdb
+/Users/gormuradxanyan/RiderProjects/BankSystem/BankSystem.Domain/obj/Debug/net9.0/ref/BankSystem.Domain.dll
